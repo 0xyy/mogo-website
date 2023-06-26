@@ -78,7 +78,7 @@
     }
 
     &--instagram {
-        mask-image: url('/assets/icons/instagram.svg');
+        mask-image: url('#{vars.$icon-path}/instagram.svg');
     }
 }
 
